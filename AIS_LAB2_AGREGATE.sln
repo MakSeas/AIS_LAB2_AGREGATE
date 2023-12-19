@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIS_LAB2_AGREGATE", "AIS_LAB2_AGREGATE\AIS_LAB2_AGREGATE.csproj", "{CE66D71E-AFFE-4B0E-8D77-876FC0FA47BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE66D71E-AFFE-4B0E-8D77-876FC0FA47BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE66D71E-AFFE-4B0E-8D77-876FC0FA47BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE66D71E-AFFE-4B0E-8D77-876FC0FA47BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE66D71E-AFFE-4B0E-8D77-876FC0FA47BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83F0782-93AF-4CE8-81BF-19828EEB4F06}
+	EndGlobalSection
+EndGlobal
